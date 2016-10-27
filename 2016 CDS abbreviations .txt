@@ -1,0 +1,73 @@
+AF	atrial fibrillation
+afib	atrial fibrillation
+ALL	acute lymphoblastic leukemia 
+beta-hCG	Beta human chorionic gonadotropin
+beta-HCG	Beta human chorionic gonadotropin
+BM	bowel movement
+BMS	bare metal stent
+BMT	Bone marrow transplantation
+BP	Blood Pressure
+c/b	complicated by
+c/o	complains of
+c/w	consistent with
+CA	cancer
+CABG	Coronary artery bypass graft
+CAD	coronary artery disease
+CBD	common bile duct
+CHF	Congestive Heart Failure
+CKD	chronic kidney disease
+CMV	Cytomegalovirus 
+COPD	Chronic obstructive pulmonary disease
+coumadin	Warfarin
+CRI	chronic renal insufficiency
+CXR	chest X-ray
+dCHF	Decompensated Chronic Heart Failure
+DM2	Type 2 diabetes
+demantia dementia
+DNR/DNI	Do not resuscitate.  Do not intubate. 
+EF	ejection fraction
+EGD	upper GI endoscopy
+ERCP	endoscopic retrograde cholangiopancreatogram
+ETOH	alcohol
+exp	Exploratory 
+lap	laparotomy
+h/o	history of
+HA	headache
+HCT	hematocrit
+hematemasis	haematemesis
+HR	heart rate
+HTN	hypertension
+hx	history
+Hx	history
+interparenchymal	intraparenchymal
+Leggionare's	Legionnaires'
+LMP	last menstrual period
+NAD	no abnormality detected
+NQWMI	Non Q Wave Myocardial Infarction
+NSR	normal Sinus Rhythm
+OB	obstetrics
+OSH	outside hospital
+PE/DVT	Deep Vein Thrombosis and Pulmonary Embolism
+PMH	past medical history
+pmh	past medical history
+PMHx	past medical history
+PNA	pneumonia
+Pt	patient
+pt	patient
+PT	Prothrombin time
+QTc	heart rate corrected interval
+RUL	right upper lobe of lung
+RUQ	right upper quadrant of abdome
+s/p	status post
+SBP	Systolic Blood Pressure
+SOB	shortness of breath
+UA	Urine Analysis
+VF	ventricular fibrillation
+vfib	ventricular fibrillation
+VS	Vital Signs
+vs	Vital Signs
+vomitting	vomiting
+w/	with
+w/o	without
+Wt	weight
+yo	year old
