@@ -35,6 +35,7 @@ h/o	history of
 HA	headache
 HCT	hematocrit
 hematemasis	haematemesis
+hep Hepatitis 
 HR	heart rate
 HTN	hypertension
 hx	history
